@@ -12,6 +12,7 @@ MySQL Study Material
 9.  Set Operations
 10. Subquery
 11. Views
-12. Stored Routines (Stored Functions, Stored Procedures)
-13. Indexes
-14. 
+12. Temporary Tables
+13. Stored Routines (Stored Functions, Stored Procedures)
+14. Indexes
+15. 
